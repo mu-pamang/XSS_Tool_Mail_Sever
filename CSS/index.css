@@ -1,0 +1,7 @@
+.img {
+    background-image: url("../images/hero-bg.jpg");
+    background-size: cover;
+    height: 100vh;
+    top: 0;
+    left: 0;
+}
